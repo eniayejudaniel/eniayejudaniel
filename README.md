@@ -28,8 +28,9 @@ I have excellent communication and presentation skills and can effectively commu
 ## **Projects**
 [**Cyclistic Bike Share:**](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share)
 
-[**La Veranda de Larnaca Hotel**]()
+[**La Veranda de Larnaca Hotel**](https://github.com/eniayejudaniel/La-Veranda-Hotel-Customer-Reviews-)
 
 ## **Additional Information**
 [**Medium:**](https://medium.com/@delonisnr)
+
 [**LinkedIn:**](https://www.linkedin.com/in/daniel-eniayeju-802740167/)
