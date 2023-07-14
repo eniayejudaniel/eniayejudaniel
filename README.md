@@ -26,7 +26,7 @@ I have experience using big data frameworks such as Apache Hadoop and Apache Spa
 I have excellent communication and presentation skills and can effectively communicate complex concepts and insights to both technical and non-technical audiences. Turn complex analysis into actionable recommendations and deliver data-driven insights to guide your decisions. 
 
 ## **Projects**
-**Cyclistic Bike Share:** 
+[**Cyclistic Bike Share:**] (https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share)
 
 ## **Additional Information**
 **Medium:** https://medium.com/@delonisnr
