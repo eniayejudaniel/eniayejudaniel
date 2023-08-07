@@ -39,4 +39,8 @@ Utilizing Scrapy, I streamline the web scraping process by creating robust and s
 
 Some of my web scraping projects include:
 
-**Van Listings Web Scraper:** I . GitHub Repo
+**Van Listings Web Scraper:** I utilized the power of Selenium and its webdriver to scrape all the van listings while exploring Google Sheets API to manage and store the data. [GitHub Repo]()
+
+**Company Details Web Scraper:** I applied Scrapy Framework, with its robustness to extract all the details while exporting the extracted data to an Excel file for easy data analysis. [GitHub Repo](https://github.com/eniayejudaniel/Company-Details-Web-Scraping-with-Scrapy)
+
+**Pawnshops Web Scraper:** I created a Scrapy spider to crawl in-depth, to extract all Pawnshops in the USA. I applied Scrapy for this large web scraping project in order to get accurate, reliable, and completed results. [GitHub Repo](https://github.com/eniayejudaniel/Pawn-Shops-In-US-Web-Scraper-with-Scrapy)
