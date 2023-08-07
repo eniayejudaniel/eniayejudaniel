@@ -1,32 +1,42 @@
-## **Introduction**
+# **Introduction**
 
-Hello! My name is **Daniel Eniayeju**. A passionate, results-oriented data scientist with expertise in leveraging data to generate actionable insights and solve complex business problems. With a broad background in statistics, programming, and machine learning, I excel at extracting valuable information from data and communicating it clearly and meaningfully. 
+Hello! I'm **Daniel Eniayeju**, a committed data scientist who thrives on transforming data into actionable insights to solve complex business problems. With a strong foundation in statistics, programming, data analysis, and machine learning, I use Python for data manipulation, analysis, and model development. My proficiency extends to using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch, while I stay updated on the latest advancements in this dynamic Data field.
 
-## **Skills**
+# **Skills**
 
-**Data Analysis:** I have a solid knowledge of exploratory data analysis, statistical modeling, and hypothesis testing. I can clean and preprocess data, perform descriptive and inferential statistical analysis, and identify patterns and trends. 
+## **Programming:**
+I excel in Python programming and employ it extensively for diverse tasks and problem-solving scenarios. My expertise spans data manipulation, analysis, and model development, utilizing cutting-edge tools and technologies.
 
-**Machine Learning:** I have mastered the development and implementation of machine learning algorithms for predictive modeling, and classification. I have experience with self-supervised learning. My expertise in self-supervised learning includes Pretext Task Design, Encoder Architecture, Data Augmentation, and Deep Learning.
+## **Data Analysis:**
+My expertise in data analysis encompasses an array of essential skills:
 
-**Computer Vision:** I have expertise in computer vision techniques for object detection (fire Scene) I am familiar with OpenCV, TensorFlow, PyTorch, and other frameworks, and I have applied computer vision algorithms such as YOLO (You Only Look Once) to detect fire scene. 
+-  **Data Cleaning:**
+Mastery of data cleaning enables me to create robust and reliable datasets. I ensure the foundation for accurate analysis and modeling by eliminating inconsistencies, duplicates, outliers, and missing values.
 
-**Natural Language Processing (NLP):**
-I have knowledge and experience with NLP techniques such as text preprocessing, sentiment analysis, named entity recognition, topic modeling, and text classification. I have used libraries such as NLTK, SpaCy, and Gensim to develop models for tasks such as text summarization, sentiment analysis, and chatbot development.
+-  **Data Visualization:**
+Proficiency in data visualization empowers me to craft compelling visual representations that convey detailed insights clearly. Through tools like Matplotlib, Seaborn, and Plotly, I bring data to life, facilitating understanding and decision-making.
 
-**Data Visualization:**
-I have strong data visualization skills and use tools such as Python libraries (Matplotlib, Seaborn, Plotly, etc.) to create insightful and visually appealing charts, graphs, and dashboards. I can effectively convey complex information in a visually appealing and easy-to-understand way.
+-  **Data Storytelling:**
+I possess the art of data storytelling, weaving narratives around complex data analyses. This skill ensures that my findings are insightful and easily comprehensible, enabling stakeholders to grasp the implications and act upon them effectively.
 
-**Programming:**
-I am proficient in programming languages such as Python and R, which I use frequently for data manipulation, analysis, and model development. I'm familiar with libraries like NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, etc., and I'm always up to date with the latest tools and technologies in this space.
+I have demonstrated these skills in various projects, some of which include:
 
-**Web Scraping:** 
-I possess strong web scraping skills and can extract data from websites using Python, and libraries like Beautiful Soup, Selenium, and Scrapy. I can handle pagination, user-agent rotation, and proxies to collect data from various web sources efficiently.
+**Cyclistic Bike Share:** A comprehensive data analysis project focused on uncovering usage patterns and trends in a bike-sharing service. [GitHub Repo](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share)
 
+**La Veranda de Larnaca Hotel:** A detailed Sentiment Analysis approach to Customer Experiences with La Veranda hotel hospitality services rendered. The use of text data to uncover Human emotions. [Github Repo](https://github.com/eniayejudaniel/La-Veranda-Hotel-Customer-Reviews-)
 
-**Data Storytelling:**
-I have excellent communication and presentation skills and can effectively communicate complex concepts and insights to technical and non-technical audiences. Turn complex analysis into actionable recommendations and deliver data-driven insights to guide your decisions. 
+## **Web Scraping:**
+My proficiency in web scraping encompasses the following frameworks:
 
-## **Additional Information**
-[**Medium**](https://medium.com/@delonisnr)
+  - **Beautiful Soup:**
+With Beautiful Soup, I adeptly extract structured data from HTML and XML documents. This framework enhances my ability to collect and parse information efficiently from various web sources.
 
-[**LinkedIn**](https://www.linkedin.com/in/daniel-eniayeju-802740167/)
+  -  **Selenium:**
+Selenium empowers me to automate web interactions, making it possible to scrape data from dynamically loaded websites. This skill allows me to tackle complex scraping tasks seamlessly.
+
+  - **Scrapy:**
+Utilizing Scrapy, I streamline the web scraping process by creating robust and scalable spiders. This framework enables me to scrape large amounts of data with ease, optimizing efficiency.
+
+Some of my web scraping projects include:
+
+**Van Listings Web Scraper:** I . GitHub Repo
