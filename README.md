@@ -39,8 +39,10 @@ Utilizing Scrapy, I streamline the web scraping process by creating robust and s
 
 Some of my web scraping projects include:
 
-**Van Listings Web Scraper:** I utilized the power of Selenium and its webdriver to scrape all the van listings while exploring Google Sheets API to manage and store the data. [GitHub Repo]()
+**Van Listings Web Scraper:** I utilized the power of Selenium and its webdriver to scrape all the van listings while exploring Google Sheets API to manage and store the data. [GitHub Repo](https://github.com/eniayejudaniel/Van-Listings-Web-Scraper-and-Data-Management)
 
 **Company Details Web Scraper:** I applied Scrapy Framework, with its robustness to extract all the details while exporting the extracted data to an Excel file for easy data analysis. [GitHub Repo](https://github.com/eniayejudaniel/Company-Details-Web-Scraping-with-Scrapy)
 
 **Pawnshops Web Scraper:** I created a Scrapy spider to crawl in-depth, to extract all Pawnshops in the USA. I applied Scrapy for this large web scraping project in order to get accurate, reliable, and completed results. [GitHub Repo](https://github.com/eniayejudaniel/Pawn-Shops-In-US-Web-Scraper-with-Scrapy)
+
+In the ever-evolving landscape of data science, I am a relentless advocate for turning raw data into meaningful insights that drive informed decisions. My multifaceted skill set, rooted in programming, data analysis, and web scraping, equips me to tackle complex challenges and unearth hidden patterns. Through a deep understanding of statistics and proficiency in Python, I craft elegant solutions that empower businesses to thrive in data-rich environments.
