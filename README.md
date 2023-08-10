@@ -45,4 +45,6 @@ Some of my web scraping projects include:
 
 **Pawnshops Web Scraper:** I created a Scrapy spider to crawl in-depth, to extract all Pawnshops in the USA. I applied Scrapy for this large web scraping project in order to get accurate, reliable, and completed results. [GitHub Repo](https://github.com/eniayejudaniel/Pawn-Shops-In-US-Web-Scraper-with-Scrapy)
 
+**Freelancer Job Listings Web Scraper:** I developed a Scrapy spider specifically designed to scrape job-related information from the Freelancer website. By leveraging Scrapy's powerful capabilities, I automated the process of crawling through multiple job listing pages, extracting key data points such as job title, description, location, and price. The extracted data is then structured and stored for further analysis. [GitHub Repo](https://github.com/eniayejudaniel/Freelancer-Job-Listings-Web-Scraper-with-Scrapy)
+
 In the ever-evolving landscape of data science, I am a relentless advocate for turning raw data into meaningful insights that drive informed decisions. My multifaceted skill set, rooted in programming, data analysis, and web scraping, equips me to tackle complex challenges and unearth hidden patterns. Through a deep understanding of statistics and proficiency in Python, I craft elegant solutions that empower businesses to thrive in data-rich environments.
