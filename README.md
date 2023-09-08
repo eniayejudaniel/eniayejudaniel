@@ -21,9 +21,11 @@ I possess the art of data storytelling, weaving narratives around complex data a
 
 I have demonstrated these skills in various projects, some of which include:
 
-**Cyclistic Bike Share:** A comprehensive data analysis project focused on uncovering usage patterns and trends in a bike-sharing service. [GitHub Repo](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share)
+**Cyclistic Bike Share:** A comprehensive data analysis project focused on uncovering usage patterns and trends in a bike-sharing service. |[GitHub Repo](https://github.com/eniayejudaniel/Riding-the-Wave-of-Success-Strategies-for-Cyclistic-Bike-Share)| |[Medium Article](https://medium.com/@delonisnr/riding-the-wave-of-success-strategies-for-cyclistic-bike-share-1d15b66f7fd9)|
 
-**La Veranda de Larnaca Hotel:** A detailed Sentiment Analysis approach to Customer Experiences with La Veranda hotel hospitality services rendered. The use of text data to uncover Human emotions. [Github Repo](https://github.com/eniayejudaniel/La-Veranda-Hotel-Customer-Reviews-)
+**La Veranda de Larnaca Hotel:** A detailed Sentiment Analysis approach to Customer Experiences with La Veranda hotel hospitality services rendered. The use of text data to uncover Human emotions. |[Github Repo](https://github.com/eniayejudaniel/La-Veranda-Hotel-Customer-Reviews-)| |[Medium Article](https://medium.com/@delonisnr/la-veranda-de-larnaca-revealed-an-in-depth-look-at-customer-experiences-and-insights-from-booking-c-40afc5383895)|
+
+**Stephanie Younger's Remarkable Real Estate Reputation** This repository contains a detailed Aspect-based sentiment analysis. I uncovered what makes Stephanie Younger Group a prominent leader in the business of Real Estate Agencies in Los Angeles. |[Github Repo](https://github.com/eniayejudaniel/The-Secrets-Behind-Stephanie-Younger-s-Real-Estate-Success-Sentiment-Analysis)| |[Medium Article](https://medium.com/@delonisnr/from-client-satisfaction-to-business-growth-the-secrets-behind-stephanie-youngers-real-estate-e8a5548e5d1f)|
 
 ## **Web Scraping:**
 My proficiency in web scraping encompasses the following frameworks:
